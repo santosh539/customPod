@@ -11,5 +11,5 @@ s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'santosh539' => 'santosh539@gmail.com' } 
 s.source           = { :git => 'https://github.com/santosh539/customPod.git', :tag => s.version.to_s } 
 s.ios.deployment_target = '10.0'
-s.source_files = 'custompodTest/CustomRadiantBackground/*'  
+s.source_files = 'CustomRadiantBackground/*'  
 end
